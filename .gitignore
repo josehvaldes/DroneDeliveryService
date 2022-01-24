@@ -1,0 +1,10 @@
+.vs/DroneDeliveryService/DesignTimeBuild/.dtbcache.v2
+.vs/DroneDeliveryService/project-colors.json
+.vs/DroneDeliveryService/v17/.futdcache.v1
+.vs/DroneDeliveryService/v17/.suo
+.vs/DroneDeliveryService/v17/TestStore/0/001.testlog
+.vs/DroneDeliveryService/v17/TestStore/0/testlog.manifest
+*.dll
+*.pdb
+*/bin/*
+*/obj/*

@@ -1,0 +1,4 @@
+Drone_A, 6, Drone_B, 10
+Loc_1, 5
+Loc_2, 9
+Loc_3, 1
